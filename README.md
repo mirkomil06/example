@@ -29,7 +29,7 @@ This project explores prompt-tuned Vision Transformers for fine-grained image cl
 12. [Expected Outcomes](./README.md#-expected-outcomes)  
 13. [Experiments & Evaluation](./README.md#-experiments--evaluation)  
 14. [References](./README.md#-references)  
-15. [License](#license)  
+15. [License](#-license)  
 16. [Repository Link](./README.md#-repository-link)
 
 ---
