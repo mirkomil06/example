@@ -15,22 +15,22 @@ This project explores prompt-tuned Vision Transformers for fine-grained image cl
 ---
 
 # 📑 Table of Contents
-1. [Project Overview](./README.md#-project-overview)  
-2. [Objectives](./README.md#-objectives)  
-3. [Quickstart](./README.md#-quickstart)  
-4. [Repository Structure](./README.md#-repository-structure)  
-5. [Baseline Results (Week 3)](./README.md#-baseline-results-week-3)  
-6. [Datasets Used](./README.md#-datasets-used)  
-7. [Methodology](./README.md#-methodology)  
-8. [Project Roadmap](./README.md#-project-roadmap)  
-9. [Team](./README.md#-team-percepta)  
-10. [Tech Stack](./README.md#-tech-stack)  
-11. [Ethics & Compliance](./README.md#-ethics--compliance)  
-12. [Expected Outcomes](./README.md#-expected-outcomes)  
-13. [Experiments & Evaluation](./README.md#-experiments--evaluation)  
-14. [References](./README.md#-references)  
+1. [Project Overview](#-project-overview)  
+2. [Objectives](#-objectives)  
+3. [Quickstart](#-quickstart)  
+4. [Repository Structure](#-repository-structure)  
+5. [Baseline Results (Week 3)](#-baseline-results-week-3)  
+6. [Datasets Used](#-datasets-used)  
+7. [Methodology](#-methodology)  
+8. [Project Roadmap](#-project-roadmap)  
+9. [Team](#-team-percepta)  
+10. [Tech Stack](#-tech-stack)  
+11. [Ethics & Compliance](#-ethics--compliance)  
+12. [Expected Outcomes](#-expected-outcomes)  
+13. [Experiments & Evaluation](#-experiments--evaluation)  
+14. [References](#-references)  
 15. [License](#-license)  
-16. [Repository Link](./README.md#-repository-link)
+16. [Repository Link](#-repository-link)
 
 ---
 
